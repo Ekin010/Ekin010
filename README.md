@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ekin010
 - 👀 I’m interested in  aprender mais sobre programação e mostra minha evolução.
-- 🌱 I’m currently learning  Programação Back End
+- 🌱 I’m currently learning  Programação  Java
 - 💞️ I’m looking to collaborate  com todos que precisarem da minha ajuda
 - 📫 How to reach me  Pelo meu  Instagram @zzzzped
 
